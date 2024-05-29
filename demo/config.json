@@ -1,0 +1,9 @@
+{
+    "model_name": "model29may2.onnx",
+    "target": "SCI",
+    "backend": "OT",
+    "scale": 10,
+    "bitlength": 56,
+    "output_tensors": [ "output"],
+    "disable_trunc_opts" : false
+}
